@@ -1,0 +1,3 @@
+D:/term 3/Data structure/prj1/cmake-build-debug/CMakeFiles/prj1.dir
+D:/term 3/Data structure/prj1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/term 3/Data structure/prj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
